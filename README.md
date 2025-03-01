@@ -35,7 +35,7 @@ If you simply want to sign the documents in preparation for future contributions
 
 If you are working on your own behalf and can make IP commitments about what you produce, you can sign as an individual contributor. ([Preview the document](./openjs_foundation_icla-PREVIEW.pdf))
 
-1. Open a PR against a repo that uses EasyCLA.
+1. Open a PR against a repo that uses EasyCLA  (including this one).
 1. When blocked by the bot, follow the prompts and choose *Individual*.
 1. Fill in the details and sign the DocuSign form.
 1. Wait a little while for the check to re-run.
